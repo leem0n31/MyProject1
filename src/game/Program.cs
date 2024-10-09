@@ -151,9 +151,3 @@ Console.WriteLine(' ');
 Console.WriteLine(name + ",вы победили!");
 
 string input7;
-
-while (true) ;
-if (input7 == "f")
-{
-    Console.WriteLine("Вы посмотрели на статуетку");
-}
